@@ -12,4 +12,4 @@ I will create a script that gathers data, processes it, and then outputs a consi
 #### Installation Instructions
 1. Open index.html in any web browser via github link 
 
-Github link: https://github.com/itzxtito/SBA.git
+Github link: https://github.com/itzxtito/SBA308.git
